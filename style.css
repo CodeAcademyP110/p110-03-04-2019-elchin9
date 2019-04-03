@@ -1,0 +1,30 @@
+body{
+	background-color: lightblue;
+}
+.tags{
+	color: white;
+	font-size: 16px;
+	padding: 10px;
+	border-radius: 10px;
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.inputRow{
+	background: white;
+}
+.remove{
+	font-size: 13px;
+	margin-left: 5px;
+}
+.remove:hover{
+	color: red;
+	cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.row h1{
+	color: white;
+	font-size: 50px;
+	font-family: verdana;
+	margin-top: 20px;
+}
